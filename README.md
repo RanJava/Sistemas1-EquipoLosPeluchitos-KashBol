@@ -1,1 +1,1 @@
-# -Sistemas1-EquipoLosPeluchitos-KashBol
+# Sistemas1-EquipoLosPeluchitos-KashBol
