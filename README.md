@@ -2,10 +2,6 @@
 
 **Fintech boliviana enfocada en el registro de clientes, solicitud de créditos y validación automática bajo normativa ASFI.**
 
-![Status](https://img.shields.io/badge/estado-en%20desarrollo-yellow)
-![MVP](https://img.shields.io/badge/MVP-Sprint%201-blue)
-![License](https://img.shields.io/badge/licencia-académico-lightgrey)
-
 ---
 
 ## 📌 Descripción del Proyecto
